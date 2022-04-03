@@ -1,0 +1,10 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* /* чтобы изображение было по размеру окна. */
+.nav-item {
+    text-transform: uppercase;
+    font-weight: 700;
+}
